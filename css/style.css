@@ -26,7 +26,7 @@ a:link, a:visited, a:hover, a:active {
 .header{
 	width: 100%;
 	padding: 28px 0 10px;
-	background: url('images/bg-header.gif')repeat-x;
+	background: url('C:/Users/USER/Desktop/RE1/images/bg-header.gif')repeat-x;
 	box-shadow: 0 0 10px 1px #e3e3e3;
 }
 
@@ -35,7 +35,7 @@ a:link, a:visited, a:hover, a:active {
 	width: 225px;
 	height: 56px;
 	margin: 0 auto;
-	background: url('images/logo.png')no-repeat;
+	background: url('C:/Users/USER/Desktop/RE1/images/logo.png')no-repeat;
 	overflow: hidden;
 	text-indent: 100%;
 	white-space: nowrap;
@@ -153,7 +153,7 @@ a:link, a:visited, a:hover, a:active {
 
 .heading{
 	padding: 10px 12px;
-	background: url('images/bg-slash.gif');
+	background: url('C:/Users/USER/Desktop/RE1/images/bg-slash.gif');
 	letter-spacing: 1px;
 	font-size: 1.6rem;
 }
@@ -176,7 +176,7 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .scroll-list .scroll-item:nth-of-type(even) a{
-	background: url('images/bg-slash.gif');
+	background: url('C:/Users/USER/Desktop/RE1/images/bg-slash.gif');
 }
 
 .scroll-list .scroll-item a:hover{
@@ -398,7 +398,7 @@ a:link, a:visited, a:hover, a:active {
 .documents > li ul > li{
 	margin-bottom: 15px;
 	padding-left: 10px;
-	background: url('images/arrow.gif')no-repeat left center;
+	background: url('C:/Users/USER/Desktop/RE1/arrow.gif')no-repeat left center;
 }
 
 
@@ -443,7 +443,7 @@ a:link, a:visited, a:hover, a:active {
 .footer{
 	width: 100%;
 	padding: 20px 0 30px;
-	background: #2d3d54 url('images/bg-footer.gif');
+	background: #2d3d54 url('C:/Users/USER/Desktop/RE1/images/bg-footer.gif');
 	color: #fff;
 }
 
