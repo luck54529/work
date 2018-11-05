@@ -382,7 +382,7 @@ body {
  * 到 .heading::before 和 .heading::after
  * 的 Style 
  * -------------------------------- */
-/*
+
 .heading::before,
 .heading::after {
   content: '';
@@ -415,4 +415,3 @@ body {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
-*/
