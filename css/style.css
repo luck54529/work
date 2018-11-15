@@ -102,8 +102,8 @@ body {
 .face{
 
   background: url('../images/S47652872.jpg') ;
-  width: 130px;
-  height: 130px;
+  width: 140px;
+  height: 150px;
   background-size: 100% 100%;
   border-radius: 100%;
   margin-left: auto;
@@ -130,7 +130,7 @@ body {
  * -------------------------------- */
 .works {
   padding: 80px 0;
-  background-color: #383634;
+  background-color: #151515;
 }
 .works-wrapper {
   display: table;
