@@ -7,12 +7,12 @@ html {
   font-size: 62.5%;
 }
 body {
-  background: #151515 url('../images/bg.png') no-repeat fixed left bottom;
+  background: #151515 ;
   background-size: cover;
   color: #fff;
   text-align: center;
   font-size: 1.4rem;
-   font-family: "Hiragino Kaku Gothic ProN",  Meiryo,  sans-serif;
+   font-family:"Helvetica", "Lucida Grande", "Microsoft JhengHei", sans-serif;
 }
 *, *::before, *::after {
   box-sizing: border-box;
@@ -102,8 +102,8 @@ body {
 .face{
 
   background: url('../images/S47652872.jpg') ;
-  width: 150px;
-  height: 150px;
+  width: 130px;
+  height: 130px;
   background-size: 100% 100%;
   border-radius: 100%;
   margin-left: auto;
@@ -293,6 +293,17 @@ body {
   font-size: 1.3rem;
 }
 
+.country{
+
+  margin-bottom: 30px;
+}
+.country .taiww{
+  width: 18px;
+  height: 12px;
+  margin-right: 8px;
+  vertical-align: middle;
+
+}
 
 /* --------------------------------
  * smart phone
