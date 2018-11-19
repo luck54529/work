@@ -91,13 +91,15 @@ body {
   font-size: 7.6rem;
 }
 .site-description {
-  margin-bottom: 50px;
+  margin-top: 50px;
   color: #888;
   font-size: 1.6rem;
 }
 .buttons .button {
   margin: 10px;
 }
+
+
 
 .face{
 
@@ -108,14 +110,19 @@ body {
   border-radius: 100%;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 50px;
 
 }
 
+.faceid{
 
-.social-icon{
+  margin-top: 30px;
+}
 
-  margin: 15px 0;
-  font-size: 18px;
+
+.social-box{
+
+  margin-top: 50px;
 }
 
 
@@ -141,7 +148,11 @@ body {
       -ms-transform: rotate(360deg);
       transform: rotate(360deg); }
 
+.social-icon{
 
+  margin: 15px 0;
+  font-size: 18px;
+}
 
 
 
@@ -292,6 +303,13 @@ body {
  * -------------------------------- */
 .contact {
   padding: 80px 0 150px;
+  font-size: 20px;
+}
+
+.contact-content{
+
+  font-size: 16px;
+  margin: 60px;
 }
 .contact-form {
   width: 50%;
@@ -432,6 +450,10 @@ body {
   }
 
   /* --- contact --- */
+
+
+
+
   .contact {
     padding-bottom: 80px;
   }
