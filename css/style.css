@@ -111,6 +111,53 @@ body {
 
 }
 
+
+.social-icon{
+
+  margin: 15px 0;
+  font-size: 18px;
+}
+
+
+.social-box a{
+
+  display: inline-block;
+
+  width:50px;
+  height: 50px;
+  border: 1px solid;
+  border-radius: 50%;
+  color: #fff;
+  margin: 0 10px;
+  transition: all 0.8s;
+
+}
+
+.social-box a:hover {
+      background-color: white;
+      -webkit-transform: rotate(360deg);
+      -moz-transform: rotate(360deg);
+      -o-transform: rotate(360deg);
+      -ms-transform: rotate(360deg);
+      transform: rotate(360deg); }
+
+
+
+
+
+.fb:hover  {
+  color: #0066cc; 
+}
+
+.ig:hover {
+  color: #ff3399; 
+}
+
+.githubcc:hover{
+  color: #600080; 
+}
+
+
 /* --------------------------------
  * about
  * -------------------------------- */
